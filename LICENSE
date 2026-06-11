@@ -1,0 +1,17 @@
+Academic Non-Commercial License
+
+Copyright (c) 2026 Zhiqian Huang. All rights reserved.
+
+This repository contains non-core analysis scripts and documentation associated with the obesity subtype research project. The repository does not include the core obesity subtype assignment algorithm, model parameters, classifier implementation, online calculator source code, or any proprietary components related to subtype generation.
+
+Permission is granted to view, use, and modify the materials in this repository for non-commercial academic research, teaching, peer review, and reproducibility evaluation, provided that proper attribution is given to the copyright holder.
+
+Commercial use is not permitted without prior written permission from the copyright holder. This includes, but is not limited to, use in commercial products or services, paid consulting, clinical decision-support tools, proprietary software, sublicensing, redistribution for commercial purposes, or incorporation into commercial workflows.
+
+Redistribution of modified or unmodified copies of this repository, in whole or in substantial part, is not permitted without prior written permission from the copyright holder, except where required for academic peer review or journal reproducibility assessment.
+
+No permission is granted under this license to reproduce, reverse engineer, approximate, reimplement, or derive the core obesity subtype assignment algorithm, subtype classifier, model coefficients, subtype centroids, scaling parameters, or online calculator from this repository or related publications.
+
+This software is provided for academic research use only. It is not intended for clinical diagnosis, treatment decisions, individualized medical advice, or use as a medical device.
+
+The materials are provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, reproducibility, or suitability for any clinical, regulatory, or commercial purpose. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of these materials.
